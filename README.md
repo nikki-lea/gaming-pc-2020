@@ -11,7 +11,7 @@ Generally speaking you want to prioritize clock speed over core count, with no f
 
 **TDP**: Short for thermal design power, amount of heat that the CPU is expected to produce when under load. 
 
-]**PCIe4.0**: Streamlines loading of upcoming game data, only important 
+**PCIe4.0**: Streamlines loading of upcoming game data, only important 
 
 Links for later:
 https://www.pcmag.com/picks/the-best-cpus-for-gaming?test_uuid=01jrZgWNXhmA3ocG7ZHXevj&test_variant=a
