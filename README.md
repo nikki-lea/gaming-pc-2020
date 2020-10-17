@@ -24,6 +24,17 @@ Motherboards have lots of different components including a CPU socket, PCIe expa
 
 **Motherboard brands**: The most reliable brands are typical Asus, Gigabyte, MSI, and ASRock.
 
+### RAM
+**DIMM**: Dual inline memory module, two 64 bit interfaces. 
+
+**SDRAM**: Synchronous dynamic random access memory
+
+**Data Rate**: Number of times per second that a module sends and receives data. DDR (Double data rate) frequency is twice its clock frequency. DDR4 is the 4th generation of DDR memory.
+
+**Rank**: Collection of ICs that connects to the RAM. 
+
+
+
 
 
 Links for later:
