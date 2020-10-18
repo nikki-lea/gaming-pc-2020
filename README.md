@@ -11,7 +11,7 @@ Generally speaking you want to prioritize clock speed over core count, with no f
 
 **TDP**: Short for thermal design power, amount of heat that the CPU is expected to produce when under load. 
 
-**PCIe4.0**: Streamlines loading of upcoming game data, only important 
+**PCIe4.0**: Streamlines loading of upcoming game data, only important for loading single player games. 
 
 ### Motherboard
 Motherboards have lots of different components including a CPU socket, PCIe expansion slot, M.2 slots for M.2 SSDs, fan headers, front panel headers, SATA ports for SATA SSDs or HDDs, RAM slots, power connectors, and wifi antenna connectors. Choosing a motherboard doesn't affect frame rate, but does affect what features your PC is capable of supporting, reliability, and other parts you may choose.
@@ -24,6 +24,8 @@ Motherboards have lots of different components including a CPU socket, PCIe expa
 
 **Motherboard brands**: The most reliable brands are typical Asus, Gigabyte, MSI, and ASRock.
 
+**
+
 ### RAM
 **DIMM**: Dual inline memory module, two 64 bit interfaces. 
 
@@ -33,6 +35,11 @@ Motherboards have lots of different components including a CPU socket, PCIe expa
 
 **Rank**: Collection of ICs that connects to the RAM. 
 
+**CAS Latency**: Column access strobe, number of clock cycles that pass between when an instruction is given, and when the information is made available. Interestingly enough, higher speeds of RAM always trump higher latency, though for identical DRs, you should choose fastest latency.
+
+**Timing**: Number sets that indicate the number of clock cycles required to perform a variety of actions. 
+
+**EEPROM**: Electrically erasable programmable read only memory. XMP, or extreme memory profiles, are higher performance specs placed into RAM.
 
 
 
