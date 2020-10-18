@@ -24,8 +24,6 @@ Motherboards have lots of different components including a CPU socket, PCIe expa
 
 **Motherboard brands**: The most reliable brands are typical Asus, Gigabyte, MSI, and ASRock.
 
-**
-
 ### RAM
 **DIMM**: Dual inline memory module, two 64 bit interfaces. 
 
