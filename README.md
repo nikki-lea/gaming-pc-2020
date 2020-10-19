@@ -29,7 +29,7 @@ Motherboards have lots of different components including a CPU socket, PCIe expa
 
 **SDRAM**: Synchronous dynamic random access memory
 
-**Data Rate**: Number of times per second that a module sends and receives data. DDR (Double data rate) frequency is twice its clock frequency. DDR4 is the 4th generation of DDR memory.
+**Data Rate**: Number of times per second that a module sends and receives data. DDR (Double data rate) frequency is twice its clock frequency. DDR4 is the 4th generation of DDR memory. Note that RAM has its own independent clock cycle separate from a CPU or GPU clock cycle.
 
 **Rank**: Collection of ICs that connects to the RAM. 
 
@@ -39,7 +39,14 @@ Motherboards have lots of different components including a CPU socket, PCIe expa
 
 **EEPROM**: Electrically erasable programmable read only memory. XMP, or extreme memory profiles, are higher performance specs placed into RAM.
 
+### GPU
+**NVIDIA CUDA Cores** / **AMD Stream processors**: Render low level coding into graphics, where rendering is done in parallel across the cores. 
 
+**Clock speed**: Cycles per second that each core can perform.
+
+**TFLOPs**: Trillion floating point operations per second. Interestingly enough architectures are moving to bisecting calculations across cores based on integer vs floating point, making this metric a little less relevant. It's also heavily influenced by other hardware, such as available RAM, and CPU clock speed. In the Ampere architecture, half the cores are dedicated floating point cores, whereas half can handle either floating point or integer operations. In theory, depending on the game, if mostly integer calculations are involved, it a 3080 could perform similarly to a 2080.
+
+**Memory**: GPUs have their own memory as well, where you need at least 8GB for gaming.
 
 
 Links for later:
